@@ -1,4 +1,4 @@
 # gamma-one
 My first GitHub Repository
 <br>
-Author - Shubham Varfa
+Author - Shubham (Gamma Edge)
